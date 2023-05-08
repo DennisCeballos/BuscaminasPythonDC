@@ -1,0 +1,11 @@
+Accionador{
+a
+fasfasf
+}
+Observador{
+242
+689
+255
+255
+255
+}
